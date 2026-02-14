@@ -48,7 +48,7 @@
     },"proxy": "https://backend-thought.herokuapp.com/graphql",
     "devDependencies": {
         "babel-preset-expo": "^6.0.0",
-        "jest-expo": "^34.0.0"
+        "jest-expo": "^54.0.17"
     },
     "private": true
 }
